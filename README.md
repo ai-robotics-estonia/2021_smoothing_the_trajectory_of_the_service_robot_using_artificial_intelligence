@@ -1,5 +1,5 @@
 
-# Smoothing the trajectory of the service robot using artificial intelligence
+# 2021 Smoothing the trajectory of the service robot using artificial intelligence
 
 ## Summary
 *This section is to be filled out by the project manager based on the [summary document](https://docs.google.com/spreadsheets/d/12xi2yOMm-X5PEecgyRe3WEurcSaN9A5z4DHgBacQT6M).*
